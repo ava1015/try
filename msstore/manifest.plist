@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://ava1015.github.io/try/msstore/msstore.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://store.family.com.tw:8443/mobMSHQ/AppDownload/ios/57x57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://store.family.com.tw:8443/mobMSHQ/AppDownload/ios/512x512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -37,7 +25,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>全管家 APP</string>
+				<string>全管家APP</string>
 			</dict>
 		</dict>
 	</array>
