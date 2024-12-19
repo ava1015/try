@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://ava1015.github.io/try/msstore/msstore.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://store.family.com.tw:8443/mobMSHQ/AppDownload/ios/57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://store.family.com.tw:8443/mobMSHQ/AppDownload/ios/512x512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
